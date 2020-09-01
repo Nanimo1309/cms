@@ -1,0 +1,19 @@
+{
+	"offer1":
+	{
+		"image": "/image/asdf",
+		"title": "offer1Title",
+		"description": "lorem",
+		"price": 199.99,
+		"hours": 2
+	},
+	
+	"offer2":
+	{
+		"image": "/image/asdf2",
+		"title": "offer2Title",
+		"description": "lorem",
+		"price": 249.99,
+		"hours": 3
+	}
+}

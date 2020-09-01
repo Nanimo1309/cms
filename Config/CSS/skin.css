@@ -1,0 +1,16 @@
+nav a
+{
+	background-color: #e51;
+}
+
+nav a:hover, nav a:active
+{
+	background-color: #f73;
+}
+
+main > section > h1
+{
+	background-color: #c30;
+	outline: 0.01px solid #c30;
+}
+

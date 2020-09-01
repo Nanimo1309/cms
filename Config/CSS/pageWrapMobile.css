@@ -1,0 +1,61 @@
+nav > label
+{
+	display: block;
+	position: absolute;
+	right: 8px;
+	top: 8px;
+	
+	height: 60px;
+	width: 60px;
+	
+	border: 2px solid black;
+	border-radius: 5px;
+	
+	cursor: pointer;
+}
+
+nav > label > div
+{
+	height: 12%;
+	width: 80%;
+	
+	margin: 16% 10%;
+	
+	background-color: #000;
+	
+	border-radius: 10px;
+}
+
+nav > ul
+{
+	display: none;
+}
+
+nav > input:checked + ul
+{
+	display: flex;
+	flex-direction: column;
+	
+	position: absolute;
+	
+	top: 78px;
+	
+	width: 100%;
+}
+
+nav a
+{
+    font-size: 25px;
+	border: 2px solid #000;
+}
+
+main > section > span
+{
+	top: 10px;
+}
+
+main > section > h1
+{
+	position: sticky;
+	top: -0.01px;
+}

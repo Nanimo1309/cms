@@ -1,0 +1,17 @@
+{
+	"Kot":
+	{
+		"pass": "asdf",
+		"email": "jasiek1309@wp.pl",
+		"name": "Kot",
+		"rights": 255
+	},
+	
+	"admin":
+	{
+		"pass": "asdf",
+		"email": "",
+		"name": "Admin",
+		"rights": 2
+	}
+}

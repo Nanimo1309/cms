@@ -1,0 +1,73 @@
+{
+	"/":
+	{
+		"file": "Pages/MainPage.php",
+		"class": "MainPage"
+	},
+	
+	"/tours":
+	{
+		"file": "Pages/Tours.php",
+		"class": "Tours"
+	},
+	
+	"/file":
+	{
+		"file": "Pages/FilePage.php",
+		"class": "FilePage"
+	},
+	
+	"/image":
+	{
+		"file": "Pages/FilePage.php",
+		"class": "FilePage"
+	},
+	
+	"/CSS":
+	{
+		"file": "Pages/FilePage.php",
+		"class": "FilePage"
+	},
+	
+	"/JS":
+	{
+		"file": "Pages/FilePage.php",
+		"class": "FilePage"
+	},
+	
+	"/403":
+	{
+		"file": "Pages/ErrorPages/Page403.php",
+		"class": "Page403"
+	},
+	
+	"/404":
+	{
+		"file": "Pages/ErrorPages/Page404.php",
+		"class": "Page404"
+	},
+	
+	"/cannotDefineLanguage":
+	{
+		"file": "Pages/ErrorPages/LangError.php",
+		"class": "LangError"
+	},
+	
+	"/loadConfig":
+	{
+		"file": "Pages/Admin/LoadConfig.php",
+		"class": "LoadConfig"
+	},
+	
+	"/login":
+	{
+		"file": "Pages/Admin/Login.php",
+		"class": "Login"
+	},
+	
+	"/test":
+	{
+		"file": "Pages/Admin/Test.php",
+		"class": "Test"
+	}
+}
