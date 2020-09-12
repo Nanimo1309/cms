@@ -1,16 +1,16 @@
 <?php
 	class Stmt
-	{	
+	{
 		private $stmt;
-	
+
 		public function __construct($stmt)
 		{
 			if(!$stmt instanceof mysqli_stmt)
 				throw new SQLException('Invalid initializer type');
-			
+
 			$this->stmt = $stmt;
 		}
-		
+
 		public function execute(...$attr)
 		{
 			$types = '';
@@ -33,23 +33,23 @@
 					break;
 				}
 			}
-			
+
 			if(!empty($types))
 				$this->stmt->bind_param($types, ...$attr);
-			
+
 			$this->stmt->execute();
-			
+
 			$res = $this->stmt->get_result();
-			
+
 			if($res)
 			{
 				$ret = $res->fetch_all(MYSQLI_ASSOC);
-				
+
 				$res->free();
-				
+
 				if(empty($ret))
 					return false;
-				
+
 				return $ret;
 			}
 			else

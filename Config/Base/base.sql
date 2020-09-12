@@ -1,3 +1,0 @@
-DROP DATABASE IF EXISTS cracowTrips24;
-CREATE DATABASE IF NOT EXISTS cracowTrips24 CHARACTER SET = utf8 COLLATE = utf8_polish_ci;
-USE cracowTrips24;
