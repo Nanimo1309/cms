@@ -15,14 +15,14 @@
 			if(!self::load(Request::url()))
 				self::noPage();
 
+			Connection::close();
+
 			if(error_reporting())
 				ob_end_flush();
 			else
 				ob_end_clean();
 
 			self::$page->write();
-
-			Connection::close();
 		}
 
 		public static function load($url)

@@ -1,10 +1,10 @@
 <?php
 	class Connection
 	{
-		private static $host = 'localhost';
-		private static $username = 'root';
-		private static $passwd = '';
-		private static $dbname = '';
+		private static $host = 'nazmetplgxmysql.mysql.db';
+		private static $username = 'nazmetplgxmysql';
+		private static $passwd = 'Nazar007';
+		private static $dbname = 'nazmetplgxmysql';
 		private static $port = 3306;
 
 		private static $con = null;
