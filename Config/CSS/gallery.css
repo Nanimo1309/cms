@@ -1,0 +1,90 @@
+.gallery > figure
+{
+    margin: 10px;
+    
+    width: 150px;
+    max-width: 300px;
+    height: 150px;
+    
+    box-shadow: 2px 2px 10px 0;
+}
+
+.gallery img
+{
+    width: 100%;
+    height: 100%;
+    
+    object-fit: cover;
+    object-position: center;
+}
+
+#galleryShow
+{
+    top: 0;
+    
+    width: 100%;
+    height: 100%;
+    
+    background-color: #555e;
+    
+    z-index: 10;
+}
+
+#galleryShow > img
+{
+    width: 80vw;
+    height: 90vh;
+    
+    object-fit: contain;
+    object-position: center;
+}
+
+#galleryShow > div
+{
+    width: 10vw;
+    max-width: 100px;
+    min-width: 60px;
+    height: 100vh;
+    
+    flex-grow: 0;
+}
+
+#galleryShow > div:first-of-type
+{
+    left: 0;
+}
+
+#galleryShow > div:nth-of-type(2)
+{
+    right: 0;
+}
+
+#galleryShow > div > div:first-of-type
+{
+    height: 20vh;
+}
+
+#galleryShow > div > div:nth-of-type(2)
+{
+    height: 80vh;
+}
+
+#galleryShow button
+{
+    width: 100%;
+    height: 60px;
+    
+    color: #ccc;
+    font-size: 30px;
+    
+    border: none;
+    border-radius: 10px;
+    background-color: #4448;
+    
+    transition: background-color 0.3s;
+}
+
+#galleryShow button:hover
+{
+    background-color: #888;
+}

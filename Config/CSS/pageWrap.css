@@ -1,0 +1,93 @@
+#toBegin
+{
+	display: none;
+	
+	right: 5px;
+	bottom: 5px;
+	
+	width: 60px;
+	height: 60px;
+	
+	border: 2px solid #000;
+	border-radius: 10px;
+	
+	z-index: 2;
+}
+
+#toBegin > div
+{
+	position: relative;
+	top: 15%;
+	
+	width: 50%;
+	height: 50%;
+	
+	transform: rotate(-45deg) matrix(1, -.2, -.2, 1, 0, 0);
+	
+	border: 4px #000;
+	border-style: solid solid none none;
+	border-radius: 0 20% 0 0;
+}
+
+body > header > div:first-child
+{
+    height: 20vh;
+	
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+#flags
+{
+	position: absolute;
+	top: 0;
+	right: 15px;
+}
+
+#flags a
+{
+	margin: 5px;
+	border: 1px solid #000;
+	font-size: 0;
+}
+
+#flags img
+{
+	width: 70px;
+	max-width: 20vw;
+}
+
+body > nav
+{
+	z-index: 2;
+}
+
+body > nav > label
+{
+	display: none;
+}
+
+body > nav > ul
+{
+	display: flex;
+	flex-direction: row;
+}
+
+body > nav > ul > li
+{
+	flex-grow: 1;
+}
+
+body > nav a
+{
+	height: 50px;
+	
+	font-size: 23px;
+	font-weight: bold;
+}
+
+body > footer > p
+{
+	height: 10vh;
+}

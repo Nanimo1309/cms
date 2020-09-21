@@ -1,0 +1,18 @@
+CREATE TABLE IF NOT EXISTS gallery
+(
+	id INT AUTO_INCREMENT,
+	name VARCHAR(255) NOT NULL,
+	
+	PRIMARY KEY(id),
+	UNIQUE KEY(name)
+) engine = InnoDB;
+
+CREATE TABLE IF NOT EXISTS galleryElem
+(
+	id INT AUTO_INCREMENT,
+	idGallery INT NOT NULL,
+	idFile INT NOT NULL,
+	
+	PRIMARY KEY(id),
+	FOREIGN KEY(idGallery) REFERENCES gallery(id) ON UPDATE CASCADE ON DELETE CASCADE
+)engine = InnoDB;

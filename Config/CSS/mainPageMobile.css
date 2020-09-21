@@ -1,0 +1,10 @@
+body > main > p
+{
+	top: 0;
+}
+
+body > main > article > h1
+{
+	position: sticky;
+	top: 0;
+}

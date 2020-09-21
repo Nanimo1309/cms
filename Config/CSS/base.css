@@ -1,0 +1,119 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Comic Sans MS";
+	text-decoration: none;
+	color: #000;
+}
+
+*:-moz-focus-inner
+{
+	border: 0;
+}
+
+button, a
+{
+	cursor: pointer;
+}
+
+html
+{
+	scroll-behavior: smooth;
+	min-width: min-content;
+}
+
+body
+{
+	display: flex;
+	flex-direction: column;
+	
+	min-height: 100vh;
+}
+
+body > main
+{
+	flex-grow: 1;
+}
+
+ol, ul
+{
+	list-style: none;
+}
+
+input:focus
+{
+	border: 1px solid;
+}
+
+textarea:focus
+{
+	border: 1px solid;
+}
+
+#error
+{
+	position: fixed;
+	z-index: 100;
+}
+
+.fixed
+{
+	position: fixed;
+}
+
+.sticky
+{
+	position: sticky;
+	top: 0;
+}
+
+.button
+{
+	display: block;
+	cursor: pointer;
+}
+
+.row
+{
+	display: flex;
+	flex-direction: : row;
+}
+
+.column
+{
+	display: flex;
+	flex-direction: column;
+}
+
+.row > *, .column > *
+{
+	flex-grow: 1;
+}
+
+.wrap
+{
+	flex-wrap: wrap;
+}
+
+.center
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.centerH
+{
+	display: flex;
+	justify-content: center;
+}
+
+.centerV
+{
+	display: flex;
+	align-items: center;
+	text-align: center;
+}

@@ -1,0 +1,79 @@
+{
+	"/":
+	{
+		"file": "Pages/MainPage.php",
+		"class": "MainPage"
+	},
+	
+	"/sitemap":
+	{
+		"file": "Pages/Sitemap.php",
+		"class": "Sitemap"
+	},
+	
+	"/Offers":
+	{
+		"file": "Pages/Offers.php",
+		"class": "Offers"
+	},
+	
+	"/Offer":
+	{
+		"file": "Pages/OfferPage.php",
+		"class": "OfferPage"
+	},
+	
+	"/file":
+	{
+		"file": "Pages/FilePage.php",
+		"class": "FilePage"
+	},
+	
+	"/image":
+	{
+		"file": "Pages/FilePage.php",
+		"class": "FilePage"
+	},
+	
+	"/CSS":
+	{
+		"file": "Pages/FilePage.php",
+		"class": "FilePage"
+	},
+	
+	"/JS":
+	{
+		"file": "Pages/FilePage.php",
+		"class": "FilePage"
+	},
+	
+	"/favicon.ico":
+	{
+		"file": "Pages/ErrorPages/Page404.php",
+		"class": "Page404"
+	},
+	
+	"/403":
+	{
+		"file": "Pages/ErrorPages/Page403.php",
+		"class": "Page403"
+	},
+	
+	"/404":
+	{
+		"file": "Pages/ErrorPages/Page404.php",
+		"class": "Page404"
+	},
+	
+	"/cannotDefineLanguage":
+	{
+		"file": "Pages/ErrorPages/LangError.php",
+		"class": "LangError"
+	},
+	
+	"/loadConfig":
+	{
+		"file": "Pages/LoadConfig.php",
+		"class": "LoadConfig"
+	}
+}

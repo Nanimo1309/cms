@@ -1,0 +1,48 @@
+body > nav > label
+{
+	display: block;
+	position: absolute;
+	right: 5px;
+	top: 5px;
+	
+	width: 65px;
+	min-width: 40px;
+	height: 65px;
+	min-height: 40px;
+	
+	border: 2px solid #000;
+	border-radius: 10px;
+}
+
+body > nav > label > div
+{
+	height: 12%;
+	width: 80%;
+	
+	margin: 16% 10%;
+	
+	background-color: #000;
+	
+	border-radius: 10px;
+}
+
+body > nav > ul
+{
+	display: none;
+}
+
+body > nav > input:checked + ul
+{
+	display: flex;
+	flex-direction: column;
+	
+	position: absolute;
+	top: 75px;
+	
+	width: 100%;
+}
+
+body > nav a
+{
+	border: 1px solid #000;
+}

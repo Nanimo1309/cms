@@ -1,0 +1,160 @@
+{
+	"": "Links",
+	
+	"languages": ["en", "pl"],
+	
+	"dictionary":
+	{
+		"": "Links",
+		
+		"": "Http response",
+		"notFound": ["404 - Not Found!", "404 - Nie znaleziono!"],
+		"notFoundInfo": ["The page you are looking for does exists", "Strona której szukasz nie istnieje"],
+		"forbidden": ["403 - Forbidden!", "403 - Dostęp zabroniony!"],
+		"forbiddenInfo": ["You do not have appropriate rights to view this page", "Nie masz odpowiednich uprawnień by wyświetlić stronę"],
+		
+		"": "Names",
+		"langName": ["English", "Polski"],
+		"cracowTrips": ["Cracow Trips 24", "Cracow Trips 24"],
+		"mainPage": ["Main&nbsp;Page", "Strona&nbsp;Główna"],
+		"trips": ["Trips", "Wycieczki"],
+		"transfers": ["Transfers", "Transfery"],
+		"activities": ["Activities", "Atrakcje"],
+		"aboutUs": ["About&nbsp;Us", "O&nbsp;nas"],
+		"agencies": ["Agency", "Biuro"],
+		"contact": ["Contact", "Kontakt"],
+		
+		"": "Offers",
+		"go-karts": ["Go-Karts", "Gokarty"],
+		"go-kartsSD": ["Large and wide track, full of corners with plenty of room for overtaking. On this track you'll be able to feel like WTCC driver.<br /><b>Great for fun in groups.</b>",
+					   "Duże i szerokie trasy, pełne zakrętów z dużą ilością miejsca na wyprzedzanie. Na tej trasie poczujesz się jak kierowca WTCC.<br /><b>Dobre do zabawy w grupach.</b>"],
+		"go-kartsD": ["", ""],
+		
+		"auschwitz": ["Auschwitz - Birkenau", "Auschwitz - Birkenau"],
+		"auschwitzSD": ["The biggest Nazi extermination and concentration camps. You'll be able to walk through well known entrance gate, surviving prison blocks, the gas chambers and crematorium.",
+						"Największy nazistowski obóz eksterminacjyny i koncentracyjny. Będziesz mógł przejść przez dobrze znaną bramę wjazdową, bloki więzienne, komory gazowe i krematorium."],
+		"auschwitzD": ["<p>The Auschwitz concentration camp (Konzentrationslager Auschwitz) was a complex of over 40 concentration and extermination camps built and operated by Nazi Germany in occupied Poland during World War II and the Holocaust. It consisted of Auschwitz I, the main camp (Stammlager) and administrative headquarters in Oświęcim; Auschwitz II-Birkenau, a combined concentration and extermination camp three kilometers away in Brzezinka; Auschwitz III-Monowitz, a labor camp created to staff an IG Farben synthetic-rubber factory; and dozens of other subcamps.</p><p>After Germany invaded Poland in September 1939, sparking World War II, the Germans converted Auschwitz I, a former army barracks, to hold Polish political prisoners. The first prisoners, German criminals brought to the camp as functionaries, arrived in May 1940, and the first gassing of prisoners took place in block 11 of Auschwitz I in September 1941. Auschwitz II-Birkenau went on to become a major site of the Nazis' Final Solution to the Jewish Question. From early 1942 until late 1944, transport trains delivered Jews from all over German-occupied Europe to the camp's gas chambers. Of the estimated 1.3 million people sent to Auschwitz, at least 1.1 million died, around 90 percent of them Jews. Approximately one in six Jews killed in the Holocaust died at the camp. Others deported to Auschwitz included 150,000 non-Jewish Poles, 23,000 Roma, 15,000 Soviet prisoners of war, 400 Jehovah's Witnesses, tens of thousands of others of diverse nationalities, and an unknown number of gay men. Many of those not killed in the gas chambers died because of starvation, forced labor, infectious diseases, individual executions, and medical experiments.</p>",
+					   "<p>Obóz koncentracyjny Auschwitz (Konzentrationslager Auschwitz), zespół niemieckich nazistowskich obozów koncentracyjnych, w tym obozu zagłady na terenie Oświęcimia i pobliskich miejscowości, istniejący w latach 1940-1945, symbol Zagłady. Określany też mianem „fabryki śmierci”. Jedyny obóz koncentracyjny znajdujący się na liście światowego dziedzictwa UNESCO, figuruje tam pod oficjalną nazwą Auschwitz-Birkenau. Niemiecki nazistowski obóz koncentracyjny i zagłady (1940-1945). W 1947 roku część kompleksu zamieniono w muzeum, będące swoistym pomnikiem i świadectwem dokumentującym zbrodnie niemieckie w okupowanej Polsce, od 1979 roku wpisanym na listę UNESCO.</p><p>Oświęcim dekretem Hitlera z 8 października 1939 roku został wcielony do III Rzeszy i znalazł się administracyjnie w Niemczech, w powiecie bielskim (Landkreis Bielitz) rejencji katowickiej (Regierungsbezirk Kattowitz) prowincji Górnego Śląska (Provinz Oberschlesien). W 1940 roku na tych terenach władze niemieckie utworzyły obóz przeznaczony początkowo do osadzania więźniów politycznych i opozycji, głównie Polaków. Rozbudowywany był potem stopniowo w główne miejsce masowej eksterminacji około 1,1 miliona Żydów z całej Europy, a także 140-150 tysięcy Polaków, około 23 tysięcy Romów, około 12 tysięcy jeńców radzieckich oraz ofiar innych narodowości.</p>"],
+		
+		"dunajec": ["Dunajec - River Rafting", "Spływ Dunajcem"],
+		"dunajecSD": ["Rafting in traditional montain boats goes in Pieniny mountains, beautiful scenery, limestone clifs. We also visit Niedzicz Ghotic Castle and Dębno - small village with one of thie oldest wooden churches in Poland.",
+					  "Tradycyjny spływ górski w Pieninach, piękne widoki i wapienne skały mające ponad 120 milionów lat. Zwiedzisz także Niedzicki Gotycki Zamek i jedną z najstarszych drewnianych wiosek w polsce."],
+		"dunajecD": ["<p>The Dunajec River Gorge runs through the Pieniny Mountains in the south of Poland and the north of Slovakia (as Dunajec is the border river between the two countries in the area). The gorge is characterized by some of the most interesting geological and geomorphological structures and area-specific natural ecosystems with little anthropogenic influence. It is featured on UNESCO's Tentative List of World Heritage Sites in Poland.</p><p>Dunajec Gorge is also one of the best-known tourist attractions in the Pieniny Mountains. Wooden raft trips have been organized daily by Pieniny Gorals since the early 19th century — when their customers consisted mostly of guests of nearby Niedzica and Czorsztyn castles. The trip begins in the village of Sromowce Wyżne-Kąty, and ends in the resort town of Szczawnica, 18 km downstream. It takes about 2–3 hours. The second leg of the tour is only 5 km long. It begins in Szczawnica and ends in the town of Krościenko nad Dunajcem. The surrounding rock reaches 300 m in height almost all the way through.</p>",
+					 "<p>Spływ rozpoczyna się w Sromowcach Wyżnych (Kątach), gdzie znajduje się przystań flisacka i pawilon Pienińskiego Parku Narodowego, kończy się w Szczawnicy. Czas trwania spływu do Szczawnicy wynosi przeciętnie 2.30 godz., do Krościenka około 2 godz. 45 min. Długość spływu do Szczawnicy wynosi 15 km, do Krościenka o 3,5 km więcej.</p>"],
+		
+		"wieliczka": ["Wieliczka Salt Mine", "Kopalnia Soli w Wieliczce"],
+		"wieliczkaSD": ["Unforgetable 2.5km route trought chambers with the magnificent salt sculptures, chapel situated 101 meters underground, salt lakes, old mining machines and equipment.",
+						"Niezapomniana 2.5km droga poprzez wspaniałe jaskinie solne, kaplicę usytuowaną 101 metrów pod ziemią, jezioro solne. Będziesz miał także możliwość zobaczenia starych maszyn kopalnianych i ekwipunku."],
+		"wieliczkaD": ["<p>Salt mine in the town of Wieliczka, southern Poland, lies within the Kraków metropolitan area. Sodium chloride (table salt) was formerly produced there from the upwelling brine - and had been since Neolithic times. The Wieliczka salt mine, excavated from the 13th century, produced table salt continuously until 2007, as one of the world's oldest operating salt mines. Throughout its history, the royal salt mine was operated by the Żupy Krakowskie (Kraków Salt Mines) company</p><p>Commercial salt mining was discontinued in 1996 owing to falling salt prices and mine flooding. The Wieliczka Salt Mine is now an official Polish Historic Monument (Pomnik Historii). Its attractions include the shafts and labyrinthine passageways, displays of historic salt-mining technology, an underground lake, four chapels and numerous statues carved by miners out of the rock salt, and more recent sculptures by contemporary artists.</p>",
+					   "<p>W 1976 roku kopalnia wpisana została do krajowego rejestru zabytków. Dwa lata później wpisana przez UNESCO na pierwszą Listę światowego dziedzictwa. Od 1994, pomnik historii Polski. 30 czerwca 1996 roku zaprzestano całkowicie eksploatacji złoża. Kopalnia soli Wieliczka w 2007 r. w plebiscycie „Rzeczpospolitej” została uznana za jeden z siedmiu cudów Polski, zdobywając największą liczbę głosów.</p><p>W 2015 roku podziemia kopalni zwiedziło 1390 tys. gości, a 156 tys. skorzystało z tężni solankowej. Pod ziemią zorganizowano ponad 400 imprez. W 2015 zabezpieczono 20 komór i 1,5 km chodników. Ogółem prace ratownicze zabytkowych rejonów kopalni oraz likwidacja części niezabytkowych pochłonęły do tej pory 100 mln zł.</p>"],
+		
+		"termy": ["Termy", "Termy"],
+		"termySD": ["Located at the south of Poland at the foot of the Tatra mountains, full of great attractions.",
+					"Termy na południu Polski, u stóp Tatr, pełne wspaniałych atrakcji, szybkich zjeżdżalni, ciepłych jacuzzi i róznych rodzajów saun."],
+		"termyD": ["", ""],
+		
+		"energylandia": ["Energylandia", "Energylandia"],
+		"energylandiaSD": ["The largest amusement park in the country, located in Zator, includes 53 attractions like Mega Coaster Hyperion reaching speed <b>over 142 km/h</b>",
+						   "Największy park rozrywki w całej Polsce, zlokalizowany w Zatorze, obejmuje 53 atrakcje jak Mega Coaster Hyperion osiągający prędkość <b>ponad 142 km/h</b>"],
+		"energylandiaD": ["<p>Energylandia is an amusement park in Poland. It is located in Zator in Lesser Poland, which is in southern Poland. It is approximately 50 kilometres (31 mi) away from Kraków. Energylandia is the largest amusement park in the country, at 26 hectares (64 acres).</p><p>The park has many attractions including rollercoasters, water rides and carousels, and others. Attractions are split into three 'zones' of the park, depending on how \"extreme\" the attraction is.</p>",
+						  "<p>Rodzinny park rozrywki położony w Zatorze, otwarty 14 lipca 2014 roku, i zarazem największy park rozrywki w Polsce (powierzchnia ok. 35 ha, 15 kolejek górskich, w tym 2 w kategorii hyper coaster)</p><p>W parku podzielonym na pięć stref tematycznych znajduje się łącznie 53 atrakcje przeznaczone dla wszystkich grup wiekowych, w tym kolejki górskie, liczne karuzele i urządzenia ekstremalne, a także restauracje, bary, sklepy z pamiątkami oraz sceny, na których prezentowane są krótkie widowiska.</p>"],
+		
+		"schindler" : ["Oskar Schindler Factory", "Fabryka Oskara Schindlera"],
+		"schindlerSD" : ["Tour to the Museum Oskar Schindler, located in the district of Cracow where there was a ghetto called Podgórze",
+						 "Wycieczka do Muzeum Oskara Schindlera, mieszczącym się w fabryce dzięki której Schindler uratował zagrożonych eksterminacją Żydów"],
+		"schindlerD" : ["<p>Oskar Schindler's Enamel Factory is a former metal item factory in Kraków.</p><p>On 1 September 1939, Nazi Germany invaded Poland and the Second World War broke out. On 6 September, German troops entered Kraków. It was also probably around that time in which Oskar Schindler, a Sudeten German who was a member of the NSDAP and an agent of the Abwehr, arrived in Kraków. Using the power of the German occupation forces in the capacity of a trustee, he took over the German kitchenware shop on ul. Krakowska, and in November 1939, on the power of the decision of the Trusteeship Authority he took over the receivership of the \"Rekord\" company in Zablocie. He also produced ammunition shells, so that his factory would be classed as an essential part of the war effort. He managed to build a subcamp of the Płaszów forced labor camp in the premises where \"his\" Jews had scarce contact with camp guards.</p>",
+						"<p>Fabryka Emalia Oskara Schindlera -  fabryka założona w 1937 jako miejsce produkcji wyrobów emaliowanych i blaszanych. Wydzierżawiona, a potem przejęta przez niemieckiego przedsiębiorcę Oskara Schindlera w 1939, jako Niemiecka Fabryka Wyrobów Emaliowanych – Deutsche Emailwarenfabrik (DEF), prowadzona przez Schindlera do roku 1945. Fabryka mieści się przy ulicy Lipowej 4, na krakowskim Zabłociu. Schindler zatrudniał w niej zagrożonych eksterminacją Żydów, wpisanych następnie na tzw. listę Schindlera i uratowanych od zagłady.</p>"],
+		
+		"zakopane": ["Zakopane And Tatra Mountains", "Zakopane i Tatry"],
+		"zakopaneSD": ["Zakopane the southernmost town in Poland, with the Tatra Mountains on one side and the Góbałówka Hill on the other",
+					   "Zimowa stolica Polski, piękne widoki na góry, słynne krupówki i wiele więcej"],
+		"zakopaneD": ["<p>Town in the extreme south of Poland, in the southern part of the Podhale region at the foot of the Tatra Mountains. From 1975 to 1998, it was part of Nowy Sącz Province; since 1999, it has been part of Lesser Poland Province.</p><p>Zakopane is a center of Goral culture and is often referred to as \"the winter capital of Poland\". It is a popular destination for mountaineering, skiing, and tourism. Zakopane lies near Poland's border with Slovakia, in a valley between the Tatra Mountains and Gubałówka Hill. Zakopane lies 800–1,000 meters above sea level and centers on the intersection of its Krupówki and Kościuszko Streets.</p>",
+					  "<p>Zakopane jest najwyżej położonym miastem Polski. W granicach administracyjnych miasta znajduje się część Tatr z najwyższym punktem, jakim jest wierzchołek Świnicy – 2301 m n.p.m.</p><p>Zakopane usytuowane jest w Rowie Podtatrzańskim, ograniczonym od północy masywem Gubałówki, od północy – Tatr. Jak pisał Kornel Makuszyński: „z lewej Giewont, z prawej Gubałówka, a w środku leje”. Na szczęście nie jest to do końca prawda.</p>"],
+		
+		"johnPaul": ["In The Footsteps Of John Paul II", "Śladami Jana Pawła II"],
+		"johnPaulSD": ["Wadowice - \"the place where it all began\", dearest places to Carol Wojtyła during his childchood. On the way you'll be able to visit a sanctuary of Kalwaria Zebrzydowska",
+					   "Wadowice - \"Miejsce w którym wszystko się zaczęło\", miasto w którym wychowywał się młody Karol Wojtyła, a także cel wielu pielgrzymek ojca świętego Jana Pawła II"],
+		"johnPaulD": ["<p>City in southern Poland, 50 kilometres (31 miles) southwest of Kraków, situated on the Skawa river, confluence of Vistula, in the eastern part of Silesian Foothills. Wadowice is best known for being the birthplace of Karol Wojtyła, later Pope John Paul II.</p><p>The ecological and historical heritage of the area as well as its status as the birthplace of Pope John Paul II led to fast growth of tourism. Currently more than 200,000 people visit Wadowice every year and this number is rising.</p>",
+					  "<p>Miasto w południowej Polsce, w województwie małopolskim. Położone jest w zachodniej części na Pogórzu Śląskim, południowej w Beskidzie Małym, nad rzeką Skawą.</p><p>Miasto, po raz pierwszy wzmiankowane w 1325 r., początkowo było niewielkim ośrodkiem, lecz od końca XVIII w., wraz z budową traktu środkowogalicyjskiego łączącego Lwów z Wiedniem, a także przeniesieniem przez władze austriackie siedziby cyrkułu wadowickiego, zaczęło się szybciej rozwijać. Obecnie – jako miasto rodzinne papieża Jana Pawła II – stanowi ważny ośrodek pielgrzymkowy.</p>"],
+		
+		"ojcow": ["Ojców National Park", "Ojcowski Park Narodowy"],
+		"ojcowSD": ["Spectacular limestone rock formations including the most famous Club of Hercules. You will see the Piaskowa Skała Castle and ruins of the gothic castle suitated on a limestone hill in Ojców",
+					"Park narodowy znajdujący się około 16 kilometrów od Krakowa. Obejmuje powierzchnię 21,5 kilometra kwadratowego terenu, na krórym znajdują się m.in. ruiny średniowiecznego zamku"],
+		"ojcowD": ["<p>Ojców National Park is a national park in Kraków County, Lesser Poland Voivodeship in southern Poland, established in 1956. It takes its name from the village of Ojców, where it also has its headquarters.</p>",
+				   "<p>Park narodowy znajdujący się około 16 kilometrów od Krakowa, zajmujący powierzchnię 21,46 kilometra kwadratowego. Na terenie parku znajduje się mnóstwo obiektów turystycznych jak na przykład ruiny średniowiecznego Zamku w Ojcowie, Zamek Pieskowa Skała, a także jaskinie takie jak Jaskinia Ciemna lub Jaskinia Łokietka.</p>"],
+		
+		"shooting": ["Schooting Range", "Strzelnica"],
+		"shootingSD": ["Basic package of 20 bullets for shooting by 4 weapons<br><b>Handgun, Machine Handgun, Shootgun, Machine Gun</b>",
+					   "Strzelnica z dostępnymi różnymi rodzajami broni do wyboru<br><b>Shotgun, Karabin Maszynowy, Pistolet, Pistolet automatyczny</b>"],
+		"shootingD": ["", ""],
+		
+		"czestochowa": ["Częstochowa And The Black Madonna", "Częstochowa i Czarna Madonna"],
+		"czestochowaSD": ["Known for the famous Pauline monastery of Jasna Góra, which is the home of the Black Madonna painting, a shrine to the Virgin Mary",
+						  "Miejsce znane z sanktuarium na Jasnej Górze w którym znajduje się Obraz Matki Boskiej Częstochowskiej"],
+		"czestochowaD": ["<p>Częstochowa is a city in southern Poland on the Warta River with 222,292 inhabitants, making it the thirteenth-largest city in Poland. It is situated in the Silesian Voivodeship (administrative division) since 1999, and was previously the capital of the Częstochowa Voivodeship (1975–1998). However, Częstochowa is historically part of Lesser Poland, not of Silesia, and before 1795 (see: Partitions of Poland), it belonged to the Kraków Voivodeship. Częstochowa is located in the Kraków-Częstochowa Upland. It is the 13th most populous city in Poland. It is the largest economic, cultural and administrative hub in the northern part of the Silesian Voivodeship.</p><p>The city is known for the famous Pauline monastery of Jasna Góra, which is the home of the Black Madonna painting, a shrine to the Virgin Mary. Every year, millions of pilgrims from all over the world come to Częstochowa to see it.</p>",
+						 "<p>Częstochowa jest położona w północnej części województwa śląskiego, nad rzeką Wartą. Stara Częstochowa, obecnie część Częstochowy, uzyskała lokację między 1370 i 1377 rokiem. Współczesna Częstochowa powstała z połączenia Starej Częstochowy z Częstochówką 19 sierpnia 1826 roku</p><p>Częstochowa jest centralnym miastem aglomeracji częstochowskiej, a także największym ośrodkiem gospodarczym, kulturalnym i administracyjnym w subregionie północnym województwa śląskiego. W mieście znajduje się bazylika jasnogórska oraz klasztor na Jasnej Górze z otoczonym szczególnym kultem w Polsce, czczonym jako cudowny wizerunek i narodowa relikwia, obrazem Matki Boskiej Częstochowskiej. Jest to główny polski ośrodek kultu maryjnego i pielgrzymowania</p>"],
+		
+		"krakowBalice": ["Kraków - Balice", "Kraków - Balice"],
+		"krakowBaliceSD": ["Kraków - Balice - Kraków", "Kraków - Balice - Kraków"],
+		"krakowBaliceD": ["", ""],
+		
+		"krakowPyrzowice": ["Kraków - Pyrzowice", "Kraków - Pyrzowice"],
+		"krakowPyrzowiceSD": ["Kraków - Pyrzowice - Kraków", "Kraków - Pyrzowice - Kraków"],
+		"krakowPyrzowiceD": ["", ""],
+		
+		"krakowOkecie": ["Kraków - Okęcie", "Kraków - Okęcie"],
+		"krakowOkecieSD": ["Kraków - Okęcie - Kraków", "Kraków - Okęcie - Kraków"],
+		"krakowOkecieD": ["", ""],
+		
+		"baliceZakopane": ["Balice - Zakopane", "Balice - Zakopane"],
+		"baliceZakopaneSD": ["Balice - Zakopane - Balice", "Balice - Zakopane - Balice"],
+		"baliceZakopaneD": ["", ""],
+		
+		"krakowBerlin": ["Kraków - Berlin", "Kraków - Berlin"],
+		"krakowBerlinSD": ["Kraków - Berlin - Kraków", "Kraków - Berlin - Kraków"],
+		"krakowBerlinD": ["", ""],
+		
+		"krakowBudapeszt": ["Kraków - Budapeszt", "Kraków - Budapeszt"],
+		"krakowBudapesztSD": ["Kraków - Budapeszt - Kraków", "Kraków - Budapeszt - Kraków"],
+		"krakowBudapesztD": ["", ""],
+		
+		"krakowPraga": ["Kraków - Praga", "Kraków - Praga"],
+		"krakowPragaSD": ["Kraków - Praga - Kraków", "Kraków - Praga - Kraków"],
+		"krakowPragaD": ["", ""],
+		
+		"dailyTour": ["Daily Tour", "Wycieczka zorganizowana"],
+		"privateTour": ["Private Tour", "Wycieczka prywatna"],
+		"seeMoreTrips": ["More Trips...", "Więcej wycieczek..."],
+		"seeMoreTransfers": ["More Transfers...", "Więcej Transferów..."],
+		"seeMoreActivities": ["More Activities...", "Więcej Atrakcji..."],
+		
+		"aboutUsText": ["", ""],
+		
+		"": "Map",
+		"agencyAddress": ["2 Stradomska Street, 31-058 Cracow", "Ul. Stradomska 2, 31-058 Kraków"],
+		
+		"": "Contact",
+		"yourEmail": ["Your email", "Twój email"],
+		"emailPlaceholder": ["johnDoe@gmail.com", "janKowalski@gmail.com"],
+		"contactFormEmail": ["jasiek1309@gmail.com", "jasiek1309@gmail.com"],
+		"mailSendSuccessfully": ["Your message has been send successfully", "Twoja wiadomość została wysłana pomyślnie"],
+		"emailPatternError": ["Enter valid email", "Wprowadź poprawny email"],
+		"formPhone": ["Telephone", "Telefon"],
+		"formPhonePlaceholder": ["+12 345 678 5555", "123 456 789"],
+		"title": ["Title", "Tytuł"],
+		"titlePlaceholder": ["Trip to...", "Wycieczka do..."],
+		"message": ["Message", "Wiadomość"],
+		"messagePlaceholder": ["I would like to ask about...", "Chciałbym/Chciałabym zapytać o..."],
+		"send": ["Send", "Wyślij"],
+		"phoneNumber": ["+48 577 899 606", "+48 577 899 606"],
+		"contactEmail": ["cracowtrips24@gmail.com", "cracowtrips24@gmail.com"],
+		
+		"": "Cookie Reminder",
+		"cookieRemindText": ["This website uses cookies to ensure you get the best experience on our website.", "W ramach naszej witryny stosujemy pliki cookies w celu świadczenia Państwu usług na najwyższym poziomie."],
+		"cookieRemindGotIt": ["Got It!", "Dobrze!"],
+		"cookieRemindLearnMore": ["Learn More", "Dowiedz się więcej"],
+		
+		"": "Other",
+		"": ["PlaceholderEN", "PlaceholderPL"]
+	}
+}

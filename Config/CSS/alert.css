@@ -1,0 +1,40 @@
+.alert
+{
+    width: 100%;
+    height: 100%;
+    
+    background: #4448;
+    
+    z-index: 1000;
+}
+
+.alert div
+{
+    max-width: 90vw;
+    min-width: 30vw;
+    min-height: 30vh;
+    max-height: 80vh;
+    
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+.alert p
+{
+    margin: 20px;
+    flex-grow: 2;
+}
+
+.alert button
+{
+    margin-bottom: 20px;
+    padding: 15px 20px;
+    flex-grow: 0;
+    
+    border: 2px solid #000;
+    border-radius: 10px;
+    
+    font-weight: bold;
+    
+    cursor: pointer;
+}

@@ -1,0 +1,96 @@
+body > main > p
+{
+	position: relative;
+	top: -50px;
+}
+
+body > main > article > h1
+{
+	height: 75px;
+	
+	z-index: 1;
+}
+
+body > main > article:first-of-type > div:nth-of-type(2) > a
+{
+	margin: 30px;
+	padding: 10px;
+	
+	border: 2px solid #000;
+	border-radius: 15px;
+	
+	font-size: 20px;
+	font-weight: bold;
+}
+
+body > main > article:nth-of-type(3)
+{
+	height: calc(100vh - 50px);
+}
+
+body > main > article:nth-of-type(3) > h1
+{
+	flex-grow: 0;
+}
+
+body > main > article:nth-of-type(3) h3
+{
+	padding: 15px;
+	
+	flex-grow: 0;
+}
+
+body > main > article:nth-of-type(3) iframe
+{
+	margin: 0 5vh 5vh;
+	
+	width: 80%;
+	min-width: 200px;
+}
+
+body > main > article:nth-of-type(4) > div > *
+{
+	margin: 5vh;
+	flex-basis: 0;
+	
+	min-width: 250px;
+}
+
+body > main > article:nth-of-type(4) form
+{
+	flex-grow: 2;
+}
+
+body > main > article:nth-of-type(4) form > *
+{
+	margin: 5px;
+	padding: 4px;
+	
+	width: calc(70% - 10px);
+	min-width: 150px;
+}
+
+body > main > article:nth-of-type(4) form > label
+{
+	padding-right: 10px;
+	
+	width: calc(30% - 10px);
+	
+	text-align: right;
+}
+
+body > main > article:nth-of-type(4) form textarea
+{
+	resize: vertical;
+	height: 8em;
+}
+
+body > main > article:nth-of-type(4) form button
+{
+	flex-basis: 0;
+	
+	padding: 10px 15px;
+	
+	border: 2px solid #000;
+	border-radius: 10px;
+}

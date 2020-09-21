@@ -1,0 +1,59 @@
+body
+{
+	background-color: #eee;
+}
+
+input:focus
+{
+	border-color: #e52;
+}
+
+textarea:focus
+{
+	border-color: #e52;
+}
+
+#toBegin
+{
+	background-color: #39ec;
+}
+
+#toBegin:hover
+{
+	background-color: #39e;
+}
+
+header > div:first-child
+{
+	background-color: #abafaf;
+}
+
+.color
+{
+	background-color: #e52;
+}
+
+.colorDark
+{
+	background-color: #c30;
+}
+
+.colorLight
+{
+	background-color: #f74;
+}
+
+.colorBtn
+{
+	background-color: #e52;
+}
+
+.colorBtn:hover
+{
+	background-color: #f74;
+}
+
+.alert div
+{
+	background-color: #888;
+}

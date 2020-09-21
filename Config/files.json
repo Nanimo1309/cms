@@ -1,0 +1,845 @@
+{
+	"image/jpeg":
+	{
+		"/image/logo":
+		{
+			"file": "Config/Images/logo.jpg",
+			"name": "logo",
+			"extension": "jpg"
+		},
+		
+		"/image/go-karts":
+		{
+			"file": "Config/Images/go-karts.jpg",
+			"name": "go-karts",
+			"extension": "jpg"
+		},
+		
+		"/image/go-karts2":
+		{
+			"file": "Config/Images/go-karts2.jpg",
+			"name": "go-karts2",
+			"extension": "jpg"
+		},
+		
+		"/image/go-karts3":
+		{
+			"file": "Config/Images/go-karts3.jpg",
+			"name": "go-karts3",
+			"extension": "jpg"
+		},
+		
+		"/image/go-karts4":
+		{
+			"file": "Config/Images/go-karts4.jpg",
+			"name": "go-karts4",
+			"extension": "jpg"
+		},
+		
+		"/image/go-karts5":
+		{
+			"file": "Config/Images/go-karts5.jpg",
+			"name": "go-karts5",
+			"extension": "jpg"
+		},
+		
+		"/image/auschwitz":
+		{
+			"file": "Config/Images/auschwitz.jpg",
+			"name": "Auschwitz",
+			"extension": "jpg"
+		},
+		
+		"/image/auschwitz2":
+		{
+			"file": "Config/Images/auschwitz2.jpg",
+			"name": "Auschwitz2",
+			"extension": "jpg"
+		},
+		
+		"/image/auschwitz3":
+		{
+			"file": "Config/Images/auschwitz3.jpg",
+			"name": "Auschwitz3",
+			"extension": "jpg"
+		},
+		
+		"/image/auschwitz4":
+		{
+			"file": "Config/Images/auschwitz4.jpg",
+			"name": "Auschwitz4",
+			"extension": "jpg"
+		},
+		
+		"/image/auschwitz5":
+		{
+			"file": "Config/Images/auschwitz5.jpg",
+			"name": "Auschwitz5",
+			"extension": "jpg"
+		},
+		
+		"/image/auschwitz6":
+		{
+			"file": "Config/Images/auschwitz6.jpg",
+			"name": "Auschwitz6",
+			"extension": "jpg"
+		},
+		
+		"/image/auschwitz7":
+		{
+			"file": "Config/Images/auschwitz7.jpg",
+			"name": "Auschwitz7",
+			"extension": "jpg"
+		},
+		
+		"/image/auschwitz8":
+		{
+			"file": "Config/Images/auschwitz8.jpg",
+			"name": "Auschwitz8",
+			"extension": "jpg"
+		},
+		
+		"/image/auschwitz9":
+		{
+			"file": "Config/Images/auschwitz9.jpg",
+			"name": "Auschwitz9",
+			"extension": "jpg"
+		},
+		
+		"/image/auschwitz10":
+		{
+			"file": "Config/Images/auschwitz.jfif",
+			"name": "Auschwitz",
+			"extension": "jfif"
+		},
+		
+		"/image/dunajec":
+		{
+			"file": "Config/Images/dunajec.jpg",
+			"name": "dunajec",
+			"extension": "jpg"
+		},
+		
+		"/image/dunajec2":
+		{
+			"file": "Config/Images/dunajec2.jpg",
+			"name": "dunajec2",
+			"extension": "jpg"
+		},
+		
+		"/image/dunajec3":
+		{
+			"file": "Config/Images/dunajec3.jpg",
+			"name": "dunajec3",
+			"extension": "jpg"
+		},
+		
+		"/image/dunajec4":
+		{
+			"file": "Config/Images/dunajec4.jpg",
+			"name": "dunajec4",
+			"extension": "jpg"
+		},
+		
+		"/image/dunajec5":
+		{
+			"file": "Config/Images/dunajec5.jpg",
+			"name": "dunajec5",
+			"extension": "jpg"
+		},
+		
+		"/image/dunajec6":
+		{
+			"file": "Config/Images/dunajec6.jpg",
+			"name": "dunajec6",
+			"extension": "jpg"
+		},
+		
+		"/image/dunajec7":
+		{
+			"file": "Config/Images/dunajec.jpeg",
+			"name": "dunajec7",
+			"extension": "jpeg"
+		},
+		
+		"/image/wieliczka":
+		{
+			"file": "Config/Images/wieliczka.jpg",
+			"name": "wieliczka",
+			"extension": "jpg"
+		},
+		
+		"/image/wieliczka2":
+		{
+			"file": "Config/Images/wieliczka2.jpg",
+			"name": "wieliczka2",
+			"extension": "jpg"
+		},
+		
+		"/image/wieliczka3":
+		{
+			"file": "Config/Images/wieliczka3.jpg",
+			"name": "wieliczka3",
+			"extension": "jpg"
+		},
+		
+		"/image/wieliczka4":
+		{
+			"file": "Config/Images/wieliczka4.jpg",
+			"name": "wieliczka4",
+			"extension": "jpg"
+		},
+		
+		"/image/wieliczka5":
+		{
+			"file": "Config/Images/wieliczka5.jpg",
+			"name": "wieliczka5",
+			"extension": "jpg"
+		},
+		
+		"/image/wieliczka6":
+		{
+			"file": "Config/Images/wieliczka6.jpg",
+			"name": "wieliczka6",
+			"extension": "jpg"
+		},
+		
+		"/image/wieliczka7":
+		{
+			"file": "Config/Images/wieliczka7.jpg",
+			"name": "wieliczka7",
+			"extension": "jpg"
+		},
+		
+		"/image/wieliczka8":
+		{
+			"file": "Config/Images/wieliczka8.jpg",
+			"name": "wieliczka8",
+			"extension": "jpg"
+		},
+		
+		"/image/wieliczka9":
+		{
+			"file": "Config/Images/wieliczka9.jpg",
+			"name": "wieliczka9",
+			"extension": "jpg"
+		},
+		
+		"/image/wieliczka10":
+		{
+			"file": "Config/Images/wieliczka.jfif",
+			"name": "wieliczka10",
+			"extension": "jfif"
+		},
+		
+		"/image/termy":
+		{
+			"file": "Config/Images/termy.jpg",
+			"name": "termy",
+			"extension": "jpg"
+		},
+		
+		"/image/termy2":
+		{
+			"file": "Config/Images/termy2.jpg",
+			"name": "termy2",
+			"extension": "jpg"
+		},
+		
+		"/image/termy3":
+		{
+			"file": "Config/Images/termy3.jpg",
+			"name": "termy3",
+			"extension": "jpg"
+		},
+		
+		"/image/termy4":
+		{
+			"file": "Config/Images/termy4.jpg",
+			"name": "termy4",
+			"extension": "jpg"
+		},
+		
+		"/image/termy5":
+		{
+			"file": "Config/Images/termy5.jpg",
+			"name": "termy5",
+			"extension": "jpg"
+		},
+		
+		"/image/termy6":
+		{
+			"file": "Config/Images/termy6.jpg",
+			"name": "termy6",
+			"extension": "jpg"
+		},
+		
+		"/image/termy7":
+		{
+			"file": "Config/Images/termy7.jpg",
+			"name": "termy7",
+			"extension": "jpg"
+		},
+		
+		"/image/termy8":
+		{
+			"file": "Config/Images/termy8.jpg",
+			"name": "termy8",
+			"extension": "jpg"
+		},
+		
+		"/image/termy9":
+		{
+			"file": "Config/Images/termy9.jpg",
+			"name": "termy9",
+			"extension": "jpg"
+		},
+		
+		"/image/energylandia":
+		{
+			"file": "Config/Images/energylandia.jpg",
+			"name": "energylandia",
+			"extension": "jpg"
+		},
+		
+		"/image/energylandia2":
+		{
+			"file": "Config/Images/energylandia2.jpg",
+			"name": "energylandia2",
+			"extension": "jpg"
+		},
+		
+		"/image/energylandia3":
+		{
+			"file": "Config/Images/energylandia3.jpg",
+			"name": "energylandia3",
+			"extension": "jpg"
+		},
+		
+		"/image/energylandia4":
+		{
+			"file": "Config/Images/energylandia4.jpg",
+			"name": "energylandia4",
+			"extension": "jpg"
+		},
+		
+		"/image/energylandia5":
+		{
+			"file": "Config/Images/energylandia5.jpg",
+			"name": "energylandia5",
+			"extension": "jpg"
+		},
+		
+		"/image/energylandia6":
+		{
+			"file": "Config/Images/energylandia6.jpg",
+			"name": "energylandia6",
+			"extension": "jpg"
+		},
+		
+		"/image/energylandia7":
+		{
+			"file": "Config/Images/energylandia7.jpg",
+			"name": "energylandia7",
+			"extension": "jpg"
+		},
+		
+		"/image/energylandia8":
+		{
+			"file": "Config/Images/energylandia8.jpg",
+			"name": "energylandia8",
+			"extension": "jpg"
+		},
+		
+		"/image/energylandia9":
+		{
+			"file": "Config/Images/energylandia9.jpg",
+			"name": "energylandia9",
+			"extension": "jpg"
+		},
+		
+		"/image/schindler":
+		{
+			"file": "Config/Images/schindler.jpg",
+			"name": "schindler",
+			"extension": "jpg"
+		},
+		
+		"/image/schindler2":
+		{
+			"file": "Config/Images/schindler2.jpg",
+			"name": "schindler2",
+			"extension": "jpg"
+		},
+		
+		"/image/schindler3":
+		{
+			"file": "Config/Images/schindler3.jpg",
+			"name": "schindler3",
+			"extension": "jpg"
+		},
+		
+		"/image/schindler4":
+		{
+			"file": "Config/Images/schindler4.jpg",
+			"name": "schindler4",
+			"extension": "jpg"
+		},
+		
+		"/image/schindler5":
+		{
+			"file": "Config/Images/schindler5.jpg",
+			"name": "schindler5",
+			"extension": "jpg"
+		},
+		
+		"/image/schindler6":
+		{
+			"file": "Config/Images/schindler6.jpg",
+			"name": "schindler6",
+			"extension": "jpg"
+		},
+		
+		"/image/schindler7":
+		{
+			"file": "Config/Images/schindler7.jpg",
+			"name": "schindler7",
+			"extension": "jpg"
+		},
+		
+		"/image/schindler8":
+		{
+			"file": "Config/Images/schindler8.jpg",
+			"name": "schindler8",
+			"extension": "jpg"
+		},
+		
+		"/image/zakopane":
+		{
+			"file": "Config/Images/zakopane.jpg",
+			"name": "zakopane",
+			"extension": "jpg"
+		},
+		
+		"/image/zakopane2":
+		{
+			"file": "Config/Images/zakopane2.jpg",
+			"name": "zakopane2",
+			"extension": "jpg"
+		},
+		
+		"/image/zakopane3":
+		{
+			"file": "Config/Images/zakopane3.jpg",
+			"name": "zakopane3",
+			"extension": "jpg"
+		},
+		
+		"/image/zakopane4":
+		{
+			"file": "Config/Images/zakopane4.jpg",
+			"name": "zakopane4",
+			"extension": "jpg"
+		},
+		
+		"/image/zakopane5":
+		{
+			"file": "Config/Images/zakopane5.jpg",
+			"name": "zakopane5",
+			"extension": "jpg"
+		},
+		
+		"/image/zakopane6":
+		{
+			"file": "Config/Images/zakopane6.jpg",
+			"name": "zakopane6",
+			"extension": "jpg"
+		},
+		
+		"/image/zakopane7":
+		{
+			"file": "Config/Images/zakopane7.jpg",
+			"name": "zakopane7",
+			"extension": "jpg"
+		},
+		
+		"/image/zakopane8":
+		{
+			"file": "Config/Images/zakopane8.jpg",
+			"name": "zakopane8",
+			"extension": "jpg"
+		},
+		
+		"/image/zakopane9":
+		{
+			"file": "Config/Images/zakopane9.jpg",
+			"name": "zakopane9",
+			"extension": "jpg"
+		},
+		
+		"/image/zakopane10":
+		{
+			"file": "Config/Images/zakopane10.jpg",
+			"name": "zakopane10",
+			"extension": "jpg"
+		},
+		
+		"/image/zakopane11":
+		{
+			"file": "Config/Images/zakopane11.jpg",
+			"name": "zakopane11",
+			"extension": "jpg"
+		},
+		
+		"/image/johnPaul":
+		{
+			"file": "Config/Images/johnPaul.jpg",
+			"name": "johnPaul",
+			"extension": "jpg"
+		},
+		
+		"/image/johnPaul2":
+		{
+			"file": "Config/Images/johnPaul2.jpg",
+			"name": "johnPaul2",
+			"extension": "jpg"
+		},
+		
+		"/image/johnPaul3":
+		{
+			"file": "Config/Images/johnPaul3.jpg",
+			"name": "johnPaul3",
+			"extension": "jpg"
+		},
+		
+		"/image/johnPaul4":
+		{
+			"file": "Config/Images/johnPaul4.jpg",
+			"name": "johnPaul4",
+			"extension": "jpg"
+		},
+		
+		"/image/johnPaul5":
+		{
+			"file": "Config/Images/johnPaul5.jpg",
+			"name": "johnPaul5",
+			"extension": "jpg"
+		},
+		
+		"/image/johnPaul6":
+		{
+			"file": "Config/Images/johnPaul6.jpg",
+			"name": "johnPaul6",
+			"extension": "jpg"
+		},
+		
+		"/image/johnPaul7":
+		{
+			"file": "Config/Images/johnPaul7.jpg",
+			"name": "johnPaul7",
+			"extension": "jpg"
+		},
+		
+		"/image/ojcow":
+		{
+			"file": "Config/Images/ojcow.jpg",
+			"name": "ojcow",
+			"extension": "jpg"
+		},
+		
+		"/image/ojcow2":
+		{
+			"file": "Config/Images/ojcow2.jpg",
+			"name": "ojcow2",
+			"extension": "jpg"
+		},
+		
+		"/image/ojcow3":
+		{
+			"file": "Config/Images/ojcow3.jpg",
+			"name": "ojcow3",
+			"extension": "jpg"
+		},
+		
+		"/image/ojcow4":
+		{
+			"file": "Config/Images/ojcow4.jpg",
+			"name": "ojcow4",
+			"extension": "jpg"
+		},
+		
+		"/image/ojcow5":
+		{
+			"file": "Config/Images/ojcow5.jpg",
+			"name": "ojcow5",
+			"extension": "jpg"
+		},
+		
+		"/image/ojcow6":
+		{
+			"file": "Config/Images/ojcow6.jpg",
+			"name": "ojcow6",
+			"extension": "jpg"
+		},
+		
+		"/image/ojcow7":
+		{
+			"file": "Config/Images/ojcow7.jpg",
+			"name": "ojcow7",
+			"extension": "jpg"
+		},
+		
+		"/image/ojcow8":
+		{
+			"file": "Config/Images/ojcow8.jpg",
+			"name": "ojcow8",
+			"extension": "jpg"
+		},
+		
+		"/image/ojcow9":
+		{
+			"file": "Config/Images/ojcow9.jpg",
+			"name": "ojcow9",
+			"extension": "jpg"
+		},
+		
+		"/image/shooting":
+		{
+			"file": "Config/Images/shooting.jpg",
+			"name": "shooting",
+			"extension": "jpg"
+		},
+		
+		"/image/shooting2":
+		{
+			"file": "Config/Images/shooting2.jpg",
+			"name": "shooting2",
+			"extension": "jpg"
+		},
+		
+		"/image/shooting3":
+		{
+			"file": "Config/Images/shooting3.jpg",
+			"name": "shooting3",
+			"extension": "jpg"
+		},
+		
+		"/image/shooting4":
+		{
+			"file": "Config/Images/shooting4.jpg",
+			"name": "shooting4",
+			"extension": "jpg"
+		},
+		
+		"/image/czestochowa":
+		{
+			"file": "Config/Images/czestochowa.jpg",
+			"name": "czestochowa",
+			"extension": "jpg"
+		},
+		
+		"/image/czestochowa2":
+		{
+			"file": "Config/Images/czestochowa2.jpg",
+			"name": "czestochowa2",
+			"extension": "jpg"
+		},
+		
+		"/image/czestochowa3":
+		{
+			"file": "Config/Images/czestochowa3.jpg",
+			"name": "czestochowa3",
+			"extension": "jpg"
+		},
+		
+		"/image/czestochowa4":
+		{
+			"file": "Config/Images/czestochowa4.jpg",
+			"name": "czestochowa4",
+			"extension": "jpg"
+		},
+		
+		"/image/czestochowa5":
+		{
+			"file": "Config/Images/czestochowa5.jpg",
+			"name": "czestochowa5",
+			"extension": "jpg"
+		},
+		
+		"/image/czestochowa6":
+		{
+			"file": "Config/Images/czestochowa6.jpg",
+			"name": "czestochowa6",
+			"extension": "jpg"
+		},
+		
+		"/image/czestochowa7":
+		{
+			"file": "Config/Images/czestochowa7.jpg",
+			"name": "czestochowa7",
+			"extension": "jpg"
+		},
+		
+		"/image/czestochowa8":
+		{
+			"file": "Config/Images/czestochowa8.jpg",
+			"name": "czestochowa8",
+			"extension": "jpg"
+		},
+		
+		"/image/czestochowa9":
+		{
+			"file": "Config/Images/czestochowa9.jpg",
+			"name": "czestochowa9",
+			"extension": "jpg"
+		},
+		
+		"/image/transfers":
+		{
+			"file": "Config/Images/transfers.jpg",
+			"name": "transfers",
+			"extension": "jpg"
+		}
+	},
+	
+	"image/png":
+	{
+		"/image/shooting6":
+		{
+			"file": "Config/Images/shooting.png",
+			"name": "shooting6",
+			"extension": "png"
+		}
+	},
+	
+	"image/gif":
+	{
+		"/image/auschwitz11":
+		{
+			"file": "Config/Images/auschwitz.gif",
+			"name": "Auschwitz",
+			"extension": "gif"
+		}
+	},
+	
+	"image/svg+xml":
+	{
+		"/image/gb-flag":
+		{
+			"file": "Config/Images/gb-flag.svg",
+			"name": "gb-flag",
+			"extension": "svg"
+		},
+		
+		"/image/pl-flag":
+		{
+			"file": "Config/Images/pl-flag.svg",
+			"name": "pl-flag",
+			"extension": "svg"
+		}
+	},
+	
+	"text/CSS":
+	{
+		"/CSS/base":
+		{
+			"file": "Config/CSS/base.css",
+			"name": "base",
+			"extension": "css"
+		},
+		
+		"/CSS/skin":
+		{
+			"file": "Config/CSS/skin.css",
+			"name": "skin",
+			"extension": "css"
+		},
+		
+		"/CSS/pageWrap":
+		{
+			"file": "Config/CSS/pageWrap.css",
+			"name": "pageWrap",
+			"extension": "css"
+		},
+		
+		"/CSS/pageWrapMobile":
+		{
+			"file": "Config/CSS/pageWrapMobile.css",
+			"name": "pageWrapMobile",
+			"extension": "css"
+		},
+		
+		"/CSS/errorPage":
+		{
+			"file": "Config/CSS/errorPage.css",
+			"name": "errorPage",
+			"extension": "css"
+		},
+		
+		"/CSS/mainPage":
+		{
+			"file": "Config/CSS/mainPage.css",
+			"name": "mainPage",
+			"extension": "css"
+		},
+		
+		"/CSS/mainPageMobile":
+		{
+			"file": "Config/CSS/mainPageMobile.css",
+			"name": "mainPageMobile",
+			"extension": "css"
+		},
+		
+		"/CSS/alert":
+		{
+			"file": "Config/CSS/alert.css",
+			"name": "alert",
+			"extension": "css"
+		},
+		
+		"/CSS/gallery":
+		{
+			"file": "Config/CSS/gallery.css",
+			"name": "gallery",
+			"extension": "css"
+		},
+		
+		"/CSS/offerTile":
+		{
+			"file": "Config/CSS/offerTile.css",
+			"name": "offerTile",
+			"extension": "css"
+		},
+		
+		"/CSS/offer":
+		{
+			"file": "Config/CSS/offerPage.css",
+			"name": "offer",
+			"extension": "css"
+		}
+	},
+	
+	"application/javascript":
+	{
+		"/JS/pageWrap":
+		{
+			"file": "Config/JS/pageWrap.js",
+			"name": "pageWrap",
+			"extension": "js"
+		},
+		
+		"/JS/mainPage":
+		{
+			"file": "Config/JS/mainPage.js",
+			"name": "mainPage",
+			"extension": "js"
+		},
+		
+		"/JS/gallery":
+		{
+			"file": "Config/JS/gallery.js",
+			"name": "gallery",
+			"extension": "js"
+		}
+	}
+}

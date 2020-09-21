@@ -1,0 +1,305 @@
+{
+	"go-karts":
+	{
+		"url": "/Offer/Go-Karts",
+		"image": "/image/go-karts",
+		"title": "go-karts",
+		"shortDescription": "go-kartsSD",
+		"description": "go-kartsD",
+		"gallery": "go-karts",
+		"map": "",
+		"priceDC": 169.99,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 2
+	},
+	
+	"auschwitz":
+	{
+		"url": "/Offer/Auschwitz - Birkenau",
+		"image": "/image/auschwitz",
+		"title": "auschwitz",
+		"shortDescription": "auschwitzSD",
+		"description": "auschwitzD",
+		"gallery": "auschwitz",
+		"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10252.632148539291!2d19.19363551026622!3d50.027295187419355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716be32014dffa1%3A0xe8e173d6821a53c5!2sMiejsce%20Pami%C4%99ci%20i%20Muzeum%20Auschwitz-Birkenau!5e0!3m2!1spl!2spl!4v1568960487844!5m2!1spl!2spl",
+		"priceDC": 179.99,
+		"pricePC": 200,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 6
+	},
+	
+	"dunajec":
+	{
+		"url": "/Offer/Dunajec - River Rafting",
+		"image": "/image/dunajec",
+		"title": "dunajec",
+		"shortDescription": "dunajecSD",
+		"description": "dunajecD",
+		"gallery": "dunajec",
+		"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d328109.47904090845!2d20.53597100512771!3d50.023437779420895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4717d557a46615f7%3A0x3dc3b1c9b3d6ab65!2sDunajec!5e0!3m2!1spl!2spl!4v1568960619175!5m2!1spl!2spl",
+		"priceDC": 299.99,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 8
+	},
+	
+	"wieliczka":
+	{
+		"url": "/Offer/Wieliczka Salt Mine",
+		"image": "/image/wieliczka",
+		"title": "wieliczka",
+		"shortDescription": "wieliczkaSD",
+		"description": "wieliczkaD",
+		"gallery": "wieliczka",
+		"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2565.487113624727!2d20.05160771570497!3d49.983476279413615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471643d805818e4b%3A0x972549aefd93b415!2zS29wYWxuaWEgU29saSDigJ5XaWVsaWN6a2HigJ0!5e0!3m2!1spl!2spl!4v1568960687424!5m2!1spl!2spl",
+		"priceDC": 189.99,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 4
+	},
+	
+	"termy":
+	{
+		"url": "/Offer/Termy",
+		"image": "/image/termy",
+		"title": "termy",
+		"shortDescription": "termySD",
+		"description": "termyD",
+		"gallery": "termy",
+		"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41584.27341863898!2d19.78841801239723!3d49.35182512246608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4715eb94f4ad6213%3A0xea94768529799d01!2zVGVybXkgQ2hvY2hvxYLDs3csIERXOTU4IDFBLCAzNC01MTIgV2l0w7N3!5e0!3m2!1spl!2spl!4v1568960778929!5m2!1spl!2spl",
+		"priceDC": 249.99,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 7
+	},
+	
+	"energylandia":
+	{
+		"url": "/Offer/Energylandia",
+		"image": "/image/energylandia",
+		"title": "energylandia",
+		"shortDescription": "energylandiaSD",
+		"description": "energylandiaD",
+		"gallery": "energylandia",
+		"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5129.262919836783!2d19.40789873810342!3d49.99951861768107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716927d4e769d09%3A0xe3a4b11ced719891!2sEnergylandia%20Zator!5e0!3m2!1spl!2spl!4v1568960831691!5m2!1spl!2spl",
+		"priceDC": 299.99,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 8
+	},
+	
+	"schindler":
+	{
+		"url": "/Offer/Oskar Schindler Factory",
+		"image": "/image/schindler",
+		"title": "schindler",
+		"shortDescription": "schindlerSD",
+		"description": "schindlerD",
+		"gallery": "schindler",
+		"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10248.299281476266!2d19.953069859813702!3d50.0474296823173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b48b8f5e2db%3A0x32ef2980f3a497f9!2sFabryka%20Emalia%20Oskara%20Schindlera!5e0!3m2!1spl!2spl!4v1568960876780!5m2!1spl!2spl",
+		"priceDC": 99.99,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 2
+	},
+	
+	"zakopane":
+	{
+		"url": "/Offer/Zakopane",
+		"image": "/image/zakopane",
+		"title": "zakopane",
+		"shortDescription": "zakopaneSD",
+		"description": "zakopaneD",
+		"gallery": "zakopane",
+		"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83296.89012682498!2d19.90383606364646!3d49.27587013346888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4715f29294ef3939%3A0xdf8d87a1716ba6a0!2sZakopane!5e0!3m2!1spl!2spl!4v1568960928583!5m2!1spl!2spl",
+		"priceDC": 269.99,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 8
+	},
+	
+	"johnPaul":
+	{
+		"url": "/Offer/John Paul II",
+		"image": "/image/johnPaul",
+		"title": "johnPaul",
+		"shortDescription": "johnPaulSD",
+		"description": "johnPaulD",
+		"gallery": "johnPaul",
+		"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2570.8251704532086!2d19.491302815701385!3d49.88330967940121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471688c6bc9624e1%3A0x1bfa026bdcc08b08!2sMuzeum%20Dom%20Rodzinny%20Ojca%20%C5%9Awi%C4%99tego%20Jana%20Paw%C5%82a%20II%20w%20Wadowicach!5e0!3m2!1spl!2spl!4v1568961004464!5m2!1spl!2spl",
+		"priceDC": 229.99,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 6
+	},
+	
+	"ojcow":
+	{
+		"url": "/Offer/Ojców National Park",
+		"image": "/image/ojcow",
+		"title": "ojcow",
+		"shortDescription": "ojcowSD",
+		"description": "ojcowD",
+		"gallery": "ojcow",
+		"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40860.939139485505!2d19.78732892451311!3d50.202106701884006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471655f91045178f%3A0xcd136a085c8ae7f1!2sOjcowski%20Park%20Narodowy!5e0!3m2!1spl!2spl!4v1568961057585!5m2!1spl!2spl",
+		"priceDC": 189.99,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 5
+	},
+	
+	"shooting":
+	{
+		"url": "/Offer/Shooting Range",
+		"image": "/image/shooting",
+		"title": "shooting",
+		"shortDescription": "shootingSD",
+		"description": "shootingD",
+		"gallery": "shooting",
+		"map": "",
+		"priceDC": 249.99,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 2
+	},
+	
+	"czestochowa":
+	{
+		"url": "/Offer/Częstochowa",
+		"image": "/image/czestochowa",
+		"title": "czestochowa",
+		"shortDescription": "czestochowaSD",
+		"description": "czestochowaD",
+		"gallery": "czestochowa",
+		"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10084.375603417398!2d19.09824294536706!3d50.810898903444325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4710b67725190681%3A0xcdd96b8d5a77910!2sJasna%20G%C3%B3ra!5e0!3m2!1spl!2spl!4v1568964328313!5m2!1spl!2spl",
+		"priceDC": 249.99,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 8
+	},
+	
+	"krakowBalice":
+	{
+		"url": "/Offer/Kraków - Balice",
+		"image": "/image/transfers",
+		"title": "krakowBalice",
+		"shortDescription": "krakowBaliceSD",
+		"description": "krakowBaliceD",
+		"gallery": "",
+		"map": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d40959.458393451656!2d19.83715098646264!3d50.086920633150044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x471644c0354e18d1%3A0xb46bb6b576478abf!2zS3Jha8Ozdw!3m2!1d50.064650099999994!2d19.9449799!4m5!1s0x471658ef6b6f86f1%3A0x3ecdde68de1396a5!2sBalice%2C%2032-083!3m2!1d50.086485499999995!2d19.791569!5e0!3m2!1spl!2spl!4v1569001188837!5m2!1spl!2spl",
+		"priceDC": 90,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 0.5
+	},
+	
+	"krakowPyrzowice":
+	{
+		"url": "/Offer/Kraków - Pyrzowice",
+		"image": "/image/transfers",
+		"title": "krakowPyrzowice",
+		"shortDescription": "krakowPyrzowiceSD",
+		"description": "krakowPyrzowiceD",
+		"gallery": "",
+		"map": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d326449.6000794881!2d19.220467263181604!3d50.26602289789318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x471644c0354e18d1%3A0xb46bb6b576478abf!2zS3Jha8Ozdw!3m2!1d50.064650099999994!2d19.9449799!4m5!1s0x47172a68ec9497c5%3A0x3a2bd6363ce37a8d!2sPyrzowice!3m2!1d50.468080199999996!2d19.0717426!5e0!3m2!1spl!2spl!4v1569001255436!5m2!1spl!2spl",
+		"priceDC": 450,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 1.5
+	},
+	
+	"krakowOkecie":
+	{
+		"url": "/Offer/Kraków - Okęcie",
+		"image": "/image/transfers",
+		"title": "krakowOkecie",
+		"shortDescription": "krakowOkecieSD",
+		"description": "krakowOkecieD",
+		"gallery": "",
+		"map": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1282107.5787851885!2d18.983006517426595!3d51.1247615951317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x471644c0354e18d1%3A0xb46bb6b576478abf!2zS3Jha8Ozdw!3m2!1d50.064650099999994!2d19.9449799!4m5!1s0x4719336a85781323%3A0xd4032745f0568713!2sOk%C4%99cie%2C%2000-001%20Warszawa!3m2!1d52.183690899999995!2d20.978835699999998!5e0!3m2!1spl!2spl!4v1569001350217!5m2!1spl!2spl",
+		"priceDC": 1000,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 3.5
+	},
+	
+	"baliceZakopane":
+	{
+		"url": "/Offer/Balice Zakopane",
+		"image": "/image/transfers",
+		"title": "baliceZakopane",
+		"shortDescription": "baliceZakopaneSD",
+		"description": "baliceZakopaneD",
+		"gallery": "",
+		"map": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d660744.5581965499!2d19.21643289850671!3d49.69134327051054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x4715f29294ef3939%3A0xdf8d87a1716ba6a0!2sZakopane!3m2!1d49.299181!2d19.949562!4m5!1s0x471658ef6b6f86f1%3A0x3ecdde68de1396a5!2sBalice%2C%2032-083!3m2!1d50.086485499999995!2d19.791569!5e0!3m2!1spl!2spl!4v1569001389484!5m2!1spl!2spl",
+		"priceDC": 400,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 2
+	},
+	
+	"krakowBerlin":
+	{
+		"url": "/Offer/Kraków - Berlin",
+		"image": "/image/transfers",
+		"title": "krakowBerlin",
+		"shortDescription": "krakowBerlinSD",
+		"description": "krakowBerlinD",
+		"gallery": "",
+		"map": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2556094.011155443!2d13.826518933346522!3d51.27090337446217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x471644c0354e18d1%3A0xb46bb6b576478abf!2zS3Jha8Ozdw!3m2!1d50.064650099999994!2d19.9449799!4m5!1s0x47a84e373f035901%3A0x42120465b5e3b70!2sBerlin%2C%20Niemcy!3m2!1d52.520006599999995!2d13.404954!5e0!3m2!1spl!2spl!4v1569001610002!5m2!1spl!2spl",
+		"priceDC": 1700,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 6
+	},
+	
+	"krakowBudapeszt":
+	{
+		"url": "/Offer/Kraków - Budapeszt",
+		"image": "/image/transfers",
+		"title": "krakowBudapeszt",
+		"shortDescription": "krakowBudapesztSD",
+		"description": "krakowBudapesztD",
+		"gallery": "",
+		"map": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2689029.6731681945!2d16.062963951205187!3d48.83903301373988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x471644c0354e18d1%3A0xb46bb6b576478abf!2zS3Jha8Ozdw!3m2!1d50.064650099999994!2d19.9449799!4m5!1s0x4741c334d1d4cfc9%3A0x400c4290c1e1160!2sBudapeszt%2C%20W%C4%99gry!3m2!1d47.497912!2d19.040235!5e0!3m2!1spl!2spl!4v1569001691148!5m2!1spl!2spl",
+		"priceDC": 1400,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 6
+	},
+	
+	"krakowPraga":
+	{
+		"url": "/Offer/Kraków - Praga",
+		"image": "/image/transfers",
+		"title": "krakowPraga",
+		"shortDescription": "krakowPragaSD",
+		"description": "krakowPragaD",
+		"gallery": "",
+		"map": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1321011.3306808318!2d16.071627035035476!3d49.708914258070614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x471644c0354e18d1%3A0xb46bb6b576478abf!2zS3Jha8Ozdw!3m2!1d50.064650099999994!2d19.9449799!4m5!1s0x470b939c0970798b%3A0x400af0f66164090!2sPraga%2C%20Czechy!3m2!1d50.075538099999996!2d14.4378005!5e0!3m2!1spl!2spl!4v1569001782735!5m2!1spl!2spl",
+		"priceDC": 1600,
+		"pricePC": -1,
+		"priceDV": -1,
+		"pricePV": -1,
+		"hours": 5.5
+	}
+}
